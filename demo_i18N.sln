@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i18N", "i18N\i18N.csproj", "{9FA2CD86-752A-433B-BCF8-F8B953ED5912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleI18N", "ConsoleI18N\ConsoleI18N.csproj", "{46039D83-4DED-43FD-B14D-D82B6EA01235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA2CD86-752A-433B-BCF8-F8B953ED5912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA2CD86-752A-433B-BCF8-F8B953ED5912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA2CD86-752A-433B-BCF8-F8B953ED5912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA2CD86-752A-433B-BCF8-F8B953ED5912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46039D83-4DED-43FD-B14D-D82B6EA01235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46039D83-4DED-43FD-B14D-D82B6EA01235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46039D83-4DED-43FD-B14D-D82B6EA01235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46039D83-4DED-43FD-B14D-D82B6EA01235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		RESX_ResXSortingComparison = OrdinalIgnoreCase
+		RESX_ConfirmAddLanguageFile = True
+		RESX_AutoCreateNewLanguageFiles = True
+		RESX_NeutralResourcesLanguage = zh-TW
+		SolutionGuid = {018ACE0C-C956-469C-B5D4-0DD90EE6DE4B}
+	EndGlobalSection
+EndGlobal
